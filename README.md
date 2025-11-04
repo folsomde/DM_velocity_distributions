@@ -1,5 +1,5 @@
 # README
-This repository contains supplemental data for Folsom et al. (2025), "Dark Matter Velocity Distributions for Direct Detection." The relevant data are stored in the JSON file, which is formatted as follows:
+This repository contains supplemental data for [Folsom et al. (2025)](https://arxiv.org/abs/2505.07924), "Dark Matter Velocity Distributions for Direct Detection." The relevant data are stored in the JSON file, which is formatted as follows:
 
 * `haloIDs : list(int)`, the snapshot-99 (z=0) Subfind IDs of the MW-like halos. 
 * `hasGSE : list(bool)`, `True` if and only if the MW-like halo has undergone a GSE-like merger
